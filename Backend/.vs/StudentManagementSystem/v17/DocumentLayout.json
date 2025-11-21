@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\vikrant\\desktop\\studentmanagementsystem\\backend\\studentmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\vikrant\\desktop\\studentmanagementsystem\\backend\\studentmanagementsystem\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\vikrant\\desktop\\studentmanagementsystem\\backend\\studentmanagementsystem\\studentmanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\studentmanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\vikrant\\desktop\\studentmanagementsystem\\backend\\studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\vikrant\\desktop\\studentmanagementsystem\\backend\\studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\vikrant\\desktop\\studentmanagementsystem\\backend\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\vikrant\\desktop\\studentmanagementsystem\\backend\\studentmanagementsystem\\migrations\\20251121155740_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F64C47-C2B7-444D-BF8A-A19E1D53AEB6}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\migrations\\20251121155740_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManagementSystem",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\StudentManagementSystem.csproj",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\StudentManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\StudentManagementSystem.csproj",
+              "RelativeToolTip": "StudentManagementSystem\\StudentManagementSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T19:40:29.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251121155740_First.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Migrations\\20251121155740_First.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Migrations\\20251121155740_First.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Migrations\\20251121155740_First.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Migrations\\20251121155740_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:57:41.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:05:04.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\appsettings.json",
+              "RelativeToolTip": "StudentManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T14:55:25.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Models\\StudentDBContext.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Models\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:51:42.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Models\\Student.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:28:10.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\StudentManagementSystem\\Backend\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:25:28.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

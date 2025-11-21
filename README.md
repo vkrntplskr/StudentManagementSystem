@@ -77,7 +77,7 @@ Ensure you have the following installed on your machine before starting:
 Open your terminal and run:
 
 ```bash
-git clone [https://github.com/vkrntplskr/studentmanagementsystem.git](https://github.com/vkrntplskr/studentmanagementsystem.git)
+git clone https://github.com/vkrntplskr/studentmanagementsystem.git
 cd studentmanagementsystem
 ```
 
